@@ -1,0 +1,1 @@
+# Aws-Project-Serverless-Image-Resizer
